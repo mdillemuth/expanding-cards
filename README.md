@@ -2,7 +2,7 @@
 
 Project 1 of 50 from Brad Traversy's "50 Projects in 50 Days" course on Udemy.
 
-[View demo!](https://mdillemuth.github.io/expanding-cards/)
+Interact with the project yourself by [viewing the live demonstration online!](https://mdillemuth.github.io/expanding-cards/)
 
 ## Screenshot
 

@@ -81,7 +81,7 @@ main {
   -webkit-transition: all 700ms ease-in;
 }
 
-.panel h3 {
+.panel h2 {
   font-size: 18px;
   position: absolute;
   bottom: 20px;
@@ -96,7 +96,7 @@ main {
   flex: 5;
 }
 
-.panel.active h3 {
+.panel.active h2 {
   opacity: 1;
   -webkit-transition: opacity 0.3s ease-in 0.4s;
   -o-transition: opacity 0.3s ease-in 0.4s;
@@ -123,14 +123,14 @@ main {
 
 /* Tablet */
 @media (min-width: 768px) {
-  .panel h3 {
+  .panel h2 {
     font-size: 24px;
   }
 }
 
 /* Desktop */
 @media (min-width: 1440px) {
-  .panel h3 {
+  .panel h2 {
     font-size: 30px;
   }
 }
